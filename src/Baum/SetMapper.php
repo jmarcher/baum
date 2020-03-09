@@ -4,6 +4,7 @@ namespace Baum;
 
 use Closure;
 use Illuminate\Support\Contracts\ArrayableInterface;
+use Illuminate\Support\Arr;
 
 class SetMapper
 {
